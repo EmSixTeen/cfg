@@ -1,0 +1,15 @@
+# Ignore everything
+*.*
+*.cfg
+*.vcfg
+
+# But not these files...
+# my configs
+!.gitignore
+!autoexec.cfg
+!emsixteen.cfg
+!emsixteen-demos.cfg
+!emsixteen-practice.cfg
+
+# other configs
+!mirageSmokes.cfg
